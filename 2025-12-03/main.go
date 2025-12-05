@@ -1,3 +1,9 @@
+/*  
+	row: bank of batteries
+	number: one batteries joltage (1-9)
+	part1: find each row max 2-digit joltage, sum it
+	part2: find each row max 12-digit joltage, sum it
+*/
 package main
 
 import (
